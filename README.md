@@ -1,10 +1,4 @@
-# ✅ PROJECT 14
 
-This project aims to address the Machine Learning process in the context of a problem in the area of Civil Engineering, specifically related to concrete. Instead of performing tasks manually, we will create automation modules to develop our own AutoML system, without relying on specific frameworks. We will use Spark MLlib on PySpark to apply Machine Learning techniques. In the field of Civil Engineering, concrete is one of the most important materials. The compressive strength of concrete is an essential property, which depends in a non-linear way on the age of the concrete and the ingredients used in its composition. In this project, our objective will be to build a predictive model capable of estimating the characteristic compressive strength of concrete. and the other variables will be used as predictors.
-
-Given that we are predicting a numerical value and have input and output data, this is a regression problem. To find the best predictive model, we will try different regression algorithms such as Linear Regression, DecisionTreeRegressor, RandomForestRegressor, GBTRegressor and IsotonicRegression. We will use hyperparameter optimization and tuning techniques to achieve the best possible performance. After training the model, we will make predictions using new data. This will allow us to assess the generalizability of the model and its applicability in real situations. By developing our own AutoML system, we will have greater control over the Machine Learning process and will be able to explore different algorithms and techniques to obtain the best results. Based on the comparative performance analysis of the regression algorithms used, we will select the one that presents the best performance for our specific problem of predicting the compressive strength of concrete.
-
-Keywords: Python Language, Apache Spark, PySpark, Civil Engineering, Concrete Structures, Machine Learning, Data Analysis, AutoML, Spark MLlib, Linear Regression, DecisionTreeRegressor, RandomForestRegressor, GBTRegressor, IsotonicRegression
 
 # ✅ PROCESS
 
